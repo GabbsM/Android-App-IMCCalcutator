@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidMaster</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+</resources>
